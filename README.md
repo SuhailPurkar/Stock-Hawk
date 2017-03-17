@@ -1,6 +1,6 @@
 # Stock Hawk App
 
-Stock Hawk helps you keep track of the stock market with ease.  Made during [ Udacity Advanced Android course](https://www.udacity.com/course/ud855).
+Stock Hawk helps you keep track of the stock market with ease.  Made during [Udacity Advanced Android course](https://www.udacity.com/course/ud855).
 
 ## Demo
 The gif was recorded on a Android 5.1.1 KitKat device (API Level 22). 
